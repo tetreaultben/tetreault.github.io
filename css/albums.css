@@ -4,12 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 body {
-	margin: auto;
-    width: 50%;
-    border: 8px solid green;
-    padding: 10px;
-	text-align: center;
-	background-color: white;
+
 }
 html {
   width: 100%;
@@ -40,4 +35,13 @@ p {
 	width : 100%;
 	height : 40px;
 	color: blue;
+}
+
+.squelette{
+	margin: auto;
+    width: 50%;
+    border: 8px solid green;
+    padding: 10px;
+	text-align: center;
+	background-color: white;
 }
