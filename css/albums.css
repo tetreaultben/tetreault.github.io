@@ -9,6 +9,7 @@ body {
     border: 8px solid green;
     padding: 10px;
 	text-align: center;
+	background-color: white;
 }
 html {
   width: 100%;
